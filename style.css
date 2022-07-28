@@ -1,0 +1,21 @@
+.custom-image {
+  filter: brightness(50%);
+}
+
+footer {
+  background-color: #0a0330;
+  width: 100%;
+  height: 50vh;
+  color: white;
+}
+.custom-padding {
+  padding-top: 150px;
+}
+.custom-padding > p > span > a {
+  text-decoration: none;
+  color: white;
+}
+.text-center > p > span > a {
+  text-decoration: none;
+  color: white;
+}
